@@ -6,4 +6,5 @@ sugar
 Matrix
 John wick
 
+Change rim github for pull
 My working directory change 
